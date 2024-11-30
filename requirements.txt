@@ -1,0 +1,11 @@
+datasets
+torch
+peft
+deepspeed
+transformers
+trl
+python-dotenv
+wheel
+flash_attn
+wandb
+openai

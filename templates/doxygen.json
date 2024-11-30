@@ -1,0 +1,5 @@
+{
+    "description": "Template used by Doxygen.",
+    "prompt_input": "<|user|>{instruction}\n\n{input}<|end|>\n<|assistant|>{answer}<|end|>",
+    "prompt_no_input": "<|user|>{instruction}<|end|>\n<|assistant|>{answer}<|end|>"
+}
